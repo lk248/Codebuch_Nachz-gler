@@ -2,7 +2,7 @@ id,name,type,partei,education,journalist
 uw61,wilhelm,1,1,1,TRUE 
 ss60,seibert,1,2,2,TRUE 
 sh72,hebestreit,1,3,3,TRUE 
-sk65,kornelius,1,,2,TRUE 
+sk65,kornelius,1,5,2,TRUE 
 kv46,vater,1,3,3,TRUE 
 cs71,steegmans,1,4,2,TRUE 
 sh62,heimbach,1,1,2,TRUE 
