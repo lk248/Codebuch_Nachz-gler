@@ -12,8 +12,7 @@ erstellt von Emely Sträter (es162@hdm-stuttgart.de)
 Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Es wurden zwei getrennte Fragen erhoben:
 **Zusammenarbeitsnetzwerk**
 1) In welchem Verhältnis stehen Regierungschefs und deren Stellvertreter zueinander?
-2) Welche gemeinsamen Preise haben die Akteure gewonnen?
-
+2) Welche Akteure haben ihr Amt an welchen Nachfolger übergeben?
 
 # Edge-Attribute
 **id**
@@ -26,7 +25,7 @@ initiierender Knoten, in diesem Fall hat eine Beziehung zu dem jweiligen Akteur
 **relation**
 Verhältnis 
 1 = Arbeit,
-2 = Preise
+2 = Amtsübergabe
 
 **time**: Zeitpunkt der Beziehung/Interaktion
  
