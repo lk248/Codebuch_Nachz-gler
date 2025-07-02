@@ -1,0 +1,17 @@
+id,name,type,partei,education,journalist
+uw61,wilhelm,1,1,1,TRUE
+ss60,seibert,1,2,2,TRUE
+sh72,hebestreit,1,3,3,TRUE
+sk65,kornelius,1,0,2,TRUE
+kv46,vater,1,3,3,TRUE
+cs71,steegmans,1,4,2,TRUE
+sh62,heimbach,1,1,2,TRUE
+gs55,streiter,1,5,3,TRUE
+cw70,wirtz,1,5,1,TRUE
+ud73,demmer,1,5,1,TRUE
+mf59,fietz,1,5,2,TRUE
+wb66,baechner,1,4,3,TRUE
+ch67,hoffmann,1,5,2,TRUE
+sm85,meyer,1,3,4,FALSE
+sh80,hille,1,5,3,TRUE
+eu77,uleer,1,5,1,FALSE
